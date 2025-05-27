@@ -7,12 +7,20 @@ st.write(
 st.image("IMG_4612.png", width=600)
 
 st.write(
-    "Selain itu Miqdad mendukung pembubaran de golden dikarenakan beliau di keluarkan secara tidak hormat dari de golden"
+    "Selain itu Miqdad mendukung pembubaran de golden dikarenakan beliau di keluarkan secara tidak hormat dari de golden. Belia menjadi dendam dan emosi lalu langsung meng kontak nafathan agar rapat DGDB (De Golden Bubar) dapat segera terlaksana"
 )
 st.image("IMG_4658.jpeg", width=600)
 
 st.write(
-    "dan ini potret ketika Nafathan dan Miqdad sedang berdiskusi"
+    "dan ini potret ketika Nafathan dan Miqdad sedang berdiskusi di pinggir kolam ikan agar mendapat inspirasi bagaimana agar bisa menuntut de golden"
 )
 st.image("IMG_4655.jpeg", width=600)
 st.image("IMG_3887.png", width=1000)
+st.title("nafathan bubar")
+st.header("miqdad menggila")
+angka= st.number_input("70:", value)
+
+if (angka %) == 0:
+    st.write(f"{1} adalah bilangan genap")
+else:
+    st.write(f"{2} adalah bilangan ganjil")
