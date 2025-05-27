@@ -18,7 +18,7 @@ st.image("IMG_4655.jpeg", width=600)
 st.image("IMG_3887.png", width=1000)
 st.title("nafathan bubar")
 st.header("miqdad menggila")
-angka= st.number_input("70:", value=0, step=1
+angka= st.number_input("70:", value=0, step=1)
 
 if (angka %) == 0:
     st.write(f"{1} adalah bilangan genap")
