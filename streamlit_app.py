@@ -21,6 +21,6 @@ st.header("miqdad menggila")
 angka= st.number_input("70:", value=0, step=1)
 
 if (angka % 2) == 0:
-    st.write(f"{1} adalah bilangan genap")
+    st.write(f"{2,4,6,8,10} adalah bilangan genap")
 else:
-    st.write(f"{2} adalah bilangan ganjil")
+    st.write(f"{1,3,5,7,9} adalah bilangan ganjil")
