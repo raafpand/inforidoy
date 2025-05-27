@@ -9,4 +9,4 @@ st.image("IMG_4612.png", width=600)
 st.write(
     "Selain itu Shandi mendukung pembubaran de golden dikarenakan beliau di keluarkan secara tidak hormat dari de golden"
 )
-st.image("
+st.image("IMG_4658.jpeg, width=600)
