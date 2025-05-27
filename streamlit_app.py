@@ -20,7 +20,7 @@ st.title("nafathan bubar")
 st.header("miqdad menggila")
 angka= st.number_input("70:", value=0, step=1)
 
-if (angka %) == 0:
+if (angka % 2) == 0:
     st.write(f"{1} adalah bilangan genap")
 else:
     st.write(f"{2} adalah bilangan ganjil")
