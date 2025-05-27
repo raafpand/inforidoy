@@ -25,4 +25,4 @@ if (angka % 2) == 0:
 else:
     st.write(f"{1,3,5,7,9} adalah bilangan ganjil")
 
-st.video("
+st.video("copy_30082E94-8B7E-4626-A719-E58C1B32EB1D.mov")
