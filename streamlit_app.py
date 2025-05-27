@@ -7,6 +7,11 @@ st.write(
 st.image("IMG_4612.png", width=600)
 
 st.write(
-    "Selain itu Shandi mendukung pembubaran de golden dikarenakan beliau di keluarkan secara tidak hormat dari de golden"
+    "Selain itu Miqdad mendukung pembubaran de golden dikarenakan beliau di keluarkan secara tidak hormat dari de golden"
 )
-st.image("IMG_4658.jpeg, width=600)
+st.image("IMG_4658.jpeg", width=600)
+
+st.write(
+    "dan ini potret ketika Nafathan dan Miqdad sedang berdiskusi"
+)
+st.image
