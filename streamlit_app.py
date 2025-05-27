@@ -15,4 +15,4 @@ st.write(
     "dan ini potret ketika Nafathan dan Miqdad sedang berdiskusi"
 )
 st.image("IMG_4655.jpeg", width=600)
-st.image("
+st.image("IMG_3887.png", width=1000)
