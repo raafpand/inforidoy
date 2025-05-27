@@ -15,4 +15,4 @@ st.write(
     "dan ini potret ketika Nafathan dan Miqdad sedang berdiskusi"
 )
 st.image("IMG_4655.jpeg", width=600)
-upload_file = st.file_uploader("copy_30082E94-8B7E-4626-A719-E58C1B32EB1D.mov", type=[mov])
+st.image("
